@@ -1,0 +1,64 @@
+1. cleanmgr /sageset:1
+Clears unnecessary files from your computer's hard disk. You can use command-line options to specify that Cleanmgr cleans up Temp files, Internet files, downloaded files, and recycle bin files. You can then schedule the task to run at a specific time by using the Scheduled Tasks tool.
+
+2. compact /c /s
+Displays or alters the compression of files or directories on NTFS partitions. If used without parameters, compact displays the compression state of the current directory and the files it contains.
+To set the compression state of the current directory, its subdirectories, and existing files, type:
+
+3. copy cmdline.txt e:\series
+Copies one or more files from one location to another.
+To copy a file named Robin.typ from the current drive and directory to an existing directory named Birds that is located on drive C, type:
+
+4. cscript /D
+starts a script so that it runs in a command-line environment.
+Starts the debugger.
+
+5. date
+Displays or sets the system date. If used without parameters, date displays the current system date setting and prompts you to enter a new date.
+
+6. dir /b
+Displays a list of a directory's files and subdirectories. If used without parameters, dir displays the disk's volume label and serial number, followed by a list of directories and files on the disk (including their names and the date and time each was last modified). For files, dir displays the name extension and the size in bytes. Dir also displays the total number of files and directories listed, their cumulative size, and the free space (in bytes) remaining on the disk.
+Displays a bare list of directories and files, with no additional information.
+
+7. edit /h
+Starts MS-DOS Editor, which creates and changes ASCII text files.
+Displays the maximum number of lines possible for the current monitor.
+
+8. help
+Provides online information about system commands (that is, non-network commands). If used without parameters, help lists and briefly describes every system command.
+
+9. ipconfig
+Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, ipconfig displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters.
+
+10. label
+Creates, changes, or deletes the volume label (that is, the name) of a disk. If used without parameters, the label command changes the current volume label or deletes the existing label.
+
+11. openfiles /disconnect
+Enables an administrator to disconnect files and folders that have been opened remotely through a shared folder.
+
+12. path
+Sets the command path in the PATH environment variable (the set of directories used to search for executable files). If used without parameters, path displays the current command path.
+
+13. pause
+Suspends the processing of a batch program and displays the following prompt:
+
+14. ping
+The ping command verifies IP-level connectivity to another TCP/IP computer by sending Internet Control Message Protocol (ICMP) echo Request messages. The receipt of corresponding echo Reply messages are displayed, along with round-trip times. ping is the primary TCP/IP command used to troubleshoot connectivity, reachability, and name resolution. Used without parameters, ping displays help.
+
+15. PowerShell.exe
+You can use the PowerShell.exe command-line tool to start a Windows PowerShell session in a Command Prompt window.
+
+16. print
+Sends a text file to a printer.
+
+17. prompt
+Changes the Cmd.exe command prompt. If used without parameters, prompt resets the command prompt to the default setting, which is the current drive letter and directory followed by the greater than symbol (>).
+
+18. query process
+Displays information about processes that are running on an rd Session Host server.
+
+19. recover
+Recovers readable information from a bad or defective disk.
+
+20. shutdown
+Enables you to shut down or restart local or remote computers one at a time.
