@@ -1,7 +1,7 @@
 # RHYMES
 ### Collaborative development with Git
  
-![Screenshot 1](https://drive.google.com/open?id=1yHdKuHgcG7iACQQPv8W3ZhvG2wihyfwC) 
+![Screenshot 1](https://drive.google.com/open?id=1yHdKuHgcG7iACQQPv8W3ZhvG2wihyfwC/view?usp=sharing) 
 
 ![Screenshot 2](https://drive.google.com/open?id=11f9yUNgrmcJJFL5DhrVT-UgcT8EI2407)
 
