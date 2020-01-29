@@ -1,24 +1,24 @@
 # RHYMES
 ### Collaborative development with Git
  
-![Screenshot 1](https://drive.google.com/open?id=1yHdKuHgcG7iACQQPv8W3ZhvG2wihyfwC/view?usp=sharing) 
+![git rhymes 1](https://user-images.githubusercontent.com/60381415/73345307-730e0080-42b6-11ea-95e0-c2da868ff127.PNG)
 
-![Screenshot 2](https://drive.google.com/open?id=11f9yUNgrmcJJFL5DhrVT-UgcT8EI2407)
+![git rhymes 2](https://user-images.githubusercontent.com/60381415/73345335-7c976880-42b6-11ea-8a84-069589913947.PNG)
 
-![Screenshot 3](https://drive.google.com/open?id=1MVr7lvbiwxVpE4YHA1vmzoO_PkIBSrLL)
+![git rhymes 3](https://user-images.githubusercontent.com/60381415/73345336-7d2fff00-42b6-11ea-9ad6-3342aef155b7.PNG)
 
-![Screenshot 4](https://drive.google.com/open?id=1RLQFIk_4FsRFpzMMnSOaRuQpMnPf36qW)
+![git rhymes 4](https://user-images.githubusercontent.com/60381415/73345340-7d2fff00-42b6-11ea-8a93-a469ad7e2eaa.PNG)
 
-![Screenshot 5](https://drive.google.com/open?id=1vmRxzOZI1GbLA66E1_iK3WQnaLZYZUH0)
+![git rhymes 5](https://user-images.githubusercontent.com/60381415/73345342-7dc89580-42b6-11ea-8e1f-afd5ced28577.PNG)
 
-![Screenshot 6](https://drive.google.com/open?id=1Y4uW86KvaAvCUjQIHDpzh-yahYH6tcDU)
+![git rhymes 6](https://user-images.githubusercontent.com/60381415/73345344-7e612c00-42b6-11ea-9775-3ae54a6f90ef.PNG)
 
-![Screenshot 7](https://drive.google.com/open?id=1pUW_-BrP8aG6P69ZF0t18xUdVEK1UPLV)
+![git rhymes 7](https://user-images.githubusercontent.com/60381415/73345345-7ef9c280-42b6-11ea-8f07-f5b5905d8253.PNG)
 
-![Screenshot 8](https://drive.google.com/open?id=1PETsFvv-gKgeUjvql-dgLWKbVDW3411K)
+![git rhymes 8](https://user-images.githubusercontent.com/60381415/73345346-7f925900-42b6-11ea-8bb8-5305bb73e759.PNG)
 
-![Screenshot 9](https://drive.google.com/open?id=1JBpDcG_MQmNkcnjDDm7Bk1NeR6EoVlZH)
+![git rhymes 9](https://user-images.githubusercontent.com/60381415/73345347-802aef80-42b6-11ea-9adf-83d89f965b4f.PNG)
 
-![Screenshot 10](https://drive.google.com/open?id=18Zjod5kr84qmOBo7I_3nyfdGnBjHU3gD)
+![git rhymes 10](https://user-images.githubusercontent.com/60381415/73345348-80c38600-42b6-11ea-9472-e2844595d425.PNG)
 
-![Screenshot 11](https://drive.google.com/open?id=14yy9LVtAHXREfqt9IXcw9OFt5wZUWIlV)
+![git rhymes 11](https://user-images.githubusercontent.com/60381415/73345350-815c1c80-42b6-11ea-8c52-f009a5ab9c19.PNG)
