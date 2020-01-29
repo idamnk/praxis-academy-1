@@ -1,8 +1,9 @@
-#RHYMES
-###Collaborative development with Git
+# RHYMES
+### Collaborative development with Git
 
  
-![Screenshot of the collaborative development](screenshots/git rhymes 1.png)
+![Screenshot of the collaborative development1](screenshots/git rhymes 1.png) 
+
 ![Screenshot of the collaborative development](screenshots/git rhymes 2.png)
 ![Screenshot of the collaborative development](screenshots/git rhymes 3.png)
 ![Screenshot of the collaborative development](screenshots/git rhymes 4.png)
